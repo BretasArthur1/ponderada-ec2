@@ -109,7 +109,7 @@ Para garantir a segurança da aplicação:
 
 Para uma explicação detalhada sobre o desenvolvimento e funcionamento deste projeto, assista ao vídeo explicativo através do link abaixo:
 
-[Link para o vídeo explicativo]()
+[Link para o vídeo explicativo](https://drive.google.com/file/d/1lIKVWJLzx7ds5AxJ3ObeeuttyoPhd0st/view?usp=sharing)
 
 ## Autor
 
